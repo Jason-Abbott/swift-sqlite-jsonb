@@ -5,8 +5,8 @@
 
 
 Credits
-- I began by looking at @zamazan4ik's Serde [implementation](https://github.com/zamazan4ik/serde-sqlite-jsonb)
-- I benefited much from [conversation](https://github.com/groue/GRDB.swift/discussions/1656) with @groue
+- I began by looking at [@zamazan4ik](https://github.com/zamazan4ik)'s Serde [implementation](https://github.com/zamazan4ik/serde-sqlite-jsonb)
+- I benefited much from [conversation](https://github.com/groue/GRDB.swift/discussions/1656) with [@groue](https://github.com/groue)
 
 This was developed for use with [GRDB](https://github.com/groue/GRDB.swift), which I highly recommend. GRDB is not a requirement, though, so I've commented-out the integration but left the file here: `JSONBConvertible`.
 
